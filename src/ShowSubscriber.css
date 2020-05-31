@@ -1,0 +1,30 @@
+
+
+
+.grid-item {
+    font-size: 1.15rem;
+    padding-right: 10px;
+    height: 40px;
+    width: 200px;
+    text-align:center;
+}
+
+.grid-items {
+    margin-top:2% ;
+    padding-top: 2%;
+    color: white;
+    font-weight: 600;
+    display: flex;
+}
+
+.btn {
+    height: 30px; 
+    }
+
+header {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+}
